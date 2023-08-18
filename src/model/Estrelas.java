@@ -1,0 +1,7 @@
+package model;
+
+public enum Estrelas {
+
+    UMAESTRELA, DUASESTRELAS, TRESESTRELAS, QUATROESTRELAS, CINCOESTRELAS
+
+}
